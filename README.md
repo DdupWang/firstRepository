@@ -1,0 +1,2 @@
+# firstRepository
+这是一个利用cnn神经网络完成mr定位的代码
