@@ -1,5 +1,3 @@
-# firstRepository
-这是一个利用cnn神经网络完成mr定位的代码
 git教程
     step1:git init
     step2:git add .
