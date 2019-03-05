@@ -13,7 +13,7 @@
 * 做法：
 
     step1: 栅格化地图，将训练数据映射到栅格上 
-    ![训练数据分布图](git@github.com:DdupWang/firstRepository.git/picture/1.png)
+    ![训练数据分布图](picture/1.png)
     step2 :针对每一个栅格每一个主小区建立一个指纹，即主小区下每个小区的场强集对应一个混合高斯函数 
     ![栅格指纹库](picture\2.png)
     step3:
